@@ -1,0 +1,29 @@
+_repo: Ma-captivit--en-Abyssinie--13-...sous-l-empereur-Th-odoros_8876
+_version: 0.0.1
+alternative_title: Ma captivite en Abyssinie ...sous l'empereur Theodoros
+creator:
+  author:
+    agent_name: Blanc, Henry
+    alias: Blanc, H. (Henry)
+    birthdate: 1831
+    deathdate: 1911
+    gutenberg_agent_id: '2911'
+    url: http://www.gutenberg.org/2009/agents/2911
+description: ''
+gutenberg_bookshelf: FR Peuples et Sociétés
+gutenberg_issued: '2005-09-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8876'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Abyssinian Expedition (1867-1868)'
+- !lcsh 'Ethiopia -- History -- 1490-1889'
+- !lcc 'DT'
+- !lcsh 'Theodore II, Negus of Ethiopia, d. 1868'
+- GITenberg
+title: Ma captivité en Abyssinie ...sous l'empereur Théodoros
+url: http://www.gutenberg.org/ebooks/8876
