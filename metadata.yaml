@@ -1,6 +1,9 @@
 _repo: Ma-captivit--en-Abyssinie--13-...sous-l-empereur-Th-odoros_8876
-_version: 0.0.1
+_version: 0.1.0
 alternative_title: Ma captivite en Abyssinie ...sous l'empereur Theodoros
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Blanc, Henry
@@ -10,6 +13,8 @@ creator:
     gutenberg_agent_id: '2911'
     url: http://www.gutenberg.org/2009/agents/2911
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/8876#Ma-captivit--en-Abyssinie--13-...sous-l-empereur-Th-odoros
 gutenberg_bookshelf: FR Peuples et Sociétés
 gutenberg_issued: '2005-09-01'
 gutenberg_type: Text
